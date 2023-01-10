@@ -1,0 +1,12 @@
+*.pyc
+.vscode
+.venv
+.DS_Store
+/__pycache__
+*.class
+.setting
+.DS_Store
+.vscode
+*.dSYM
+/Inputs
+/Outputs
